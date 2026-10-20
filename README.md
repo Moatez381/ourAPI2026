@@ -23,8 +23,8 @@ A REST API built with Flask that manages two resources, **students** and **repor
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
+git clone https://github.com/Moatez381/ourAPI2026.git
+cd ourAPI2026
 ```
 
 ### 2. Create a virtual environment and install dependencies
