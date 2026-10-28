@@ -1,0 +1,14 @@
+services:
+  main-api:
+    build: .
+    command: python app.py
+    ports:
+      - "5000:5000"
+    restart: unless-stopped
+
+  homework-api:
+    build: .
+    command: python apphomework.py
+    ports:
+      - "5001:5001"
+    restart: unless-stopped
