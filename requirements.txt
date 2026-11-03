@@ -1,2 +1,3 @@
 Flask
 itsdangerous
+Flask_smorest
